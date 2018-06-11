@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/NetWork.unity
+- path: Assets/Cartoon Soldier/Scenes/showcase.unity
   isLoaded: 1
   isActive: 1
